@@ -13,5 +13,7 @@ def fetch_movie_data():
     except Exception as error:
         print(f"Error: {error}")
 
-if _name_ == "_main_":
+# Corrected line
+if __name__ == "__main__":
     fetch_movie_data()
+
