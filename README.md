@@ -2,6 +2,8 @@
 
 This project implements a movie recommendation system, likely leveraging machine learning techniques to suggest movies to users based on various criteria.
 
+![alt text](image.png)
+
 ## Features (Assumed)
 
 *   **Content-Based Filtering:** Recommends movies similar to ones the user has liked, based on attributes like genre, cast, crew, and keywords.
